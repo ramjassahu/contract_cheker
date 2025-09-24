@@ -4,7 +4,7 @@ A Streamlit-powered web application that leverages Large Language Models (LLMs) 
 
 <!-- Add a GIF or screenshot of the application in action here -->
 <!-- Example: ![App Demo](link_to_your_demo_gif.gif) -->
-➡️ Live Demo Link((https://contractcheker.streamlit.app/))
+➡️ [Live Demo Link](https://contractcheker.streamlit.app/)
 ---
 
 ## ✨ Features
@@ -145,5 +145,6 @@ This tab provides a simpler utility if you only need to extract clauses.
 
 1.  Upload a contract PDF.
 2.  The application will process the document and display all the clauses it finds, along with the page range where each clause was located.
+
 
 
